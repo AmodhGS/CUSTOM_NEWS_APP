@@ -15,6 +15,9 @@ dependencies:
     //Picaso for image url
     implementation 'com.squareup.picasso:picasso:2.5.0'
 
+Screenshots:
+![](images/img1.png)
+
 
 THIRD PARTY LICENCE:
 https://newsapi.org\n
