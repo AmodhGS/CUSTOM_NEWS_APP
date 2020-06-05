@@ -16,8 +16,9 @@ dependencies:
     implementation 'com.squareup.picasso:picasso:2.5.0'
 
 Screenshots:
-![](images/img1.png)
-
+<img src="images/img1.png" width=200>
+<img src="images/img2.png" width=200>
+<img src="images/img3.png" width=200>
 
 THIRD PARTY LICENCE:
 https://newsapi.org\n
